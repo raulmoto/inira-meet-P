@@ -19,7 +19,6 @@ La idea central es **reducir la fricción social** al conocerse: no es otro chat
 
 ## ✨ Características principales
 
-- 📅 **Publica y reserva disponibilidades** (slots de mañana/tarde).
 - 🤝 **Flujo simple**: propuesta → aceptación → encuentro.
 - 📍 **Lugares sugeridos**: biblioteca, pasillos, mesas comunes, cafetería.
 - 🎲 **Retos rompehielos**: divertidos y opcionales para quitar la tensión del primer contacto.
