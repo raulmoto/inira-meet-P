@@ -11,6 +11,8 @@
 **Inira Meet** es una **red social universitaria** diseñada para estudiantes que buscan **conectar de forma rápida, segura y presencial** en su campus.  
 La idea central es **reducir la fricción social** al conocerse: no es otro chat eterno, sino un flujo simple que fomenta los **encuentros reales**.
 
+⚠️ **Nota:** la web se encuentra en **fase de desarrollo**. Lo mostrado en el enlace es una **demo** de la versión en construcción.  
+
 👉 **Accede ahora**: [https://inira-meet.web.app](https://inira-meet.web.app)
 
 ---
@@ -37,8 +39,6 @@ La idea central es **reducir la fricción social** al conocerse: no es otro chat
 
 > Diseño minimalista, pensado para que los estudiantes **encuentren rápido a otros compañeros** y organicen un plan sin complicaciones.
 
-<!-- Pre: usa la misma imagen del repo actual -->
-<!-- Post: al hacer clic te lleva a la web -->
 ![preview](https://raw.githubusercontent.com/raulmoto/Helado_front/main/inirameet.png)
 
 <p align="center">
@@ -50,10 +50,6 @@ La idea central es **reducir la fricción social** al conocerse: no es otro chat
   </a>
 </p>
 
-
-
-
-
 ---
 
 ## 📌 Objetivo
@@ -63,6 +59,15 @@ Un **punto medio** entre una agenda de campus y un **social ice-breaker**.
 
 ---
 
+## 👩‍💼 Colaboradores y Stakeholders
+
+El desarrollo de Inira Meet ha contado con el apoyo de estudiantes de la carrera de **Publicidad**, que han contribuido en informes y gráficos de comunicación visual:
+
+- 🎨 **Lucía** – diseño gráfico y propuestas visuales  
+- 📊 **Paula** – informes y apoyo en la presentación del proyecto  
+
+---
+
 ## 🌐 Enlace
 
-👉 Entra en la web: **[inira-meet.web.app](https://inira-meet.web.app)**  
+👉 Entra en la web (demo en desarrollo): **[inira-meet.web.app](https://inira-meet.web.app)**
