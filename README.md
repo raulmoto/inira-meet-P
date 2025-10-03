@@ -63,7 +63,7 @@ Un **punto medio** entre una agenda de campus y un **social ice-breaker**.
 
 El desarrollo de Inira Meet ha contado con el apoyo de estudiantes de la carrera de **Publicidad**, que han contribuido en informes y gráficos de comunicación visual:
 
-- 🎨 **Lucía** – diseño gráfico y propuestas visuales  
+- 📊 **Lucía** – informes y apoyo en la presentación del proyecto 
 - 📊 **Paula** – informes y apoyo en la presentación del proyecto  
 
 ---
