@@ -46,9 +46,7 @@ Lo que se muestra en el enlace es una **demo funcional** de la versión en const
 
 > Diseño visual enfocado en la experiencia universitaria: colores cálidos, tipografía juvenil y un flujo intuitivo que invita a socializar sin barreras.
 
-<p align="center">
-  <img src="https://github.com/raulmoto/inira-meet-P/blob/main/meet.png?raw=1" alt="Vista previa Inira Meet" width="85%" />
-</p>
+<p align="center"> <a href="https://inira-meet.web.app" target="_blank"> <img alt="Abrir Inira Meet" src="https://img.shields.io/badge/Abrir%20Inira%20Meet-%F0%9F%9A%80%20Visitar-2563EB?style=for-the-badge&labelColor=111827&logo=google-chrome&logoColor=white" /> </a> </p>
 
 <p align="center">
   <a href="https://inira-meet.web.app" target="_blank">
