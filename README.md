@@ -25,8 +25,7 @@ Lo que se muestra en el enlace es una **demo funcional** de la versión en const
 ---
 
 ## ✨ Características principales
-
-- 📅 **Publica y reserva disponibilidades** (slots de mañana/tarde).  
+ 
 - 🤝 **Flujo natural**: propuesta → aceptación → encuentro.  
 - 📍 **Lugares sugeridos**: biblioteca, pasillos, mesas comunes o cafetería.  
 - 🎲 **Retos rompehielos**: divertidos y opcionales para disminuir la tensión del primer contacto.  
