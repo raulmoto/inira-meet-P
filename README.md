@@ -6,23 +6,31 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/raulmoto/inira-meet-P/blob/main/meet.png?raw=1" alt="Inira Meet portada" width="90%" />
+</p>
+
+---
+
 ## 🚀 ¿Qué es Inira Meet?
 
-**Inira Meet** es una **red social universitaria** diseñada para estudiantes que buscan **conectar de forma rápida, segura y presencial** en su campus.  
-La idea central es **reducir la fricción social** al conocerse: no es otro chat eterno, sino un flujo simple que fomenta los **encuentros reales**.
+**Inira Meet** es una **red social universitaria** diseñada para que los estudiantes puedan **conocerse de forma rápida, segura y presencial** dentro de su campus.  
+Su propósito es **reducir la fricción social** del primer contacto y fomentar **encuentros reales** frente a los chats interminables.
 
-⚠️ **Nota:** la web se encuentra en **fase de desarrollo**. Lo mostrado en el enlace es una **demo** de la versión en construcción.  
+⚠️ **Nota:** la web se encuentra actualmente en **fase de desarrollo**.  
+Lo que se muestra en el enlace es una **demo funcional** de la versión en construcción.
 
-👉 **Accede ahora**: [https://inira-meet.web.app](https://inira-meet.web.app)
+👉 **Accede a la demo:** [https://inira-meet.web.app](https://inira-meet.web.app)
 
 ---
 
 ## ✨ Características principales
 
-- 🤝 **Flujo simple**: propuesta → aceptación → encuentro.
-- 📍 **Lugares sugeridos**: biblioteca, pasillos, mesas comunes, cafetería.
-- 🎲 **Retos rompehielos**: divertidos y opcionales para quitar la tensión del primer contacto.
-- 🔒 **Enfoque en seguridad**: reglas claras para evitar duplicados y asegurar fiabilidad.
+- 📅 **Publica y reserva disponibilidades** (slots de mañana/tarde).  
+- 🤝 **Flujo natural**: propuesta → aceptación → encuentro.  
+- 📍 **Lugares sugeridos**: biblioteca, pasillos, mesas comunes o cafetería.  
+- 🎲 **Retos rompehielos**: divertidos y opcionales para disminuir la tensión del primer contacto.  
+- 🔒 **Seguridad**: reglas y validaciones para evitar duplicados y asegurar fiabilidad.  
 
 ---
 
@@ -30,15 +38,17 @@ La idea central es **reducir la fricción social** al conocerse: no es otro chat
 
 - ⚡ **Frontend**: Vite + React + TypeScript  
 - 🔥 **Backend & Hosting**: Firebase (Auth, Firestore, Hosting)  
-- 🎨 **UI**: CSS/Tailwind  
+- 🎨 **UI**: CSS / Tailwind  
 
 ---
 
-## 🖼️ Vista previa
+## 🖼️ Vista previa de la demo
 
-> Diseño minimalista, pensado para que los estudiantes **encuentren rápido a otros compañeros** y organicen un plan sin complicaciones.
+> Diseño visual enfocado en la experiencia universitaria: colores cálidos, tipografía juvenil y un flujo intuitivo que invita a socializar sin barreras.
 
-![preview](https://raw.githubusercontent.com/raulmoto/Helado_front/main/inirameet.png)
+<p align="center">
+  <img src="https://github.com/raulmoto/inira-meet-P/blob/main/meet.png?raw=1" alt="Vista previa Inira Meet" width="85%" />
+</p>
 
 <p align="center">
   <a href="https://inira-meet.web.app" target="_blank">
@@ -53,20 +63,20 @@ La idea central es **reducir la fricción social** al conocerse: no es otro chat
 
 ## 📌 Objetivo
 
-Facilitar que los estudiantes **rompan el hielo en su primer día de universidad**, encuentren afinidades y organicen planes o proyectos **sin caer en chats infinitos**.  
-Un **punto medio** entre una agenda de campus y un **social ice-breaker**.
+**Inira Meet** busca facilitar que los estudiantes **rompan el hielo en su primer día de universidad**, encuentren afinidades, organicen planes y colaboren en proyectos.  
+Actúa como un **punto de encuentro híbrido** entre una agenda universitaria y un **social ice-breaker académico**.
 
 ---
 
-## 👩‍💼 Colaboradores y Stakeholders
+## 👩‍💼 Stakeholders y Colaboradores
 
-El desarrollo de Inira Meet ha contado con el apoyo de estudiantes de la carrera de **Publicidad**, que han contribuido en informes y gráficos de comunicación visual:
+El desarrollo de Inira Meet ha contado con la colaboración de estudiantes de la carrera de **Marketing**, que han aportado una visión creativa y estratégica en la comunicación visual del proyecto:
 
-- 📊 **Lucía** – informes y apoyo en la presentación del proyecto 
-- 📊 **Paula** – informes y apoyo en la presentación del proyecto  
+- 🎨 **Lucía** — diseño de identidad y piezas gráficas  
+- 📊 **Paula** — informes visuales y asesoría en posicionamiento de marca  
 
 ---
 
-## 🌐 Enlace
+## 🌐 Enlace oficial
 
-👉 Entra en la web (demo en desarrollo): **[inira-meet.web.app](https://inira-meet.web.app)**
+👉 Visita la demo en desarrollo: **[inira-meet.web.app](https://inira-meet.web.app)**  
