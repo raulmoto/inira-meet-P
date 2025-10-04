@@ -44,12 +44,7 @@ Lo que se muestra en el enlace es una **demo funcional** de la versión en const
 
 ## 🖼️ Vista previa de la demo
 
-> Diseño visual enfocado en la experiencia universitaria: colores cálidos, tipografía juvenil y un flujo intuitivo que invita a socializar sin barreras.
-
-<p align="center"> <a href="https://inira-meet.web.app" target="_blank"> <img alt="Abrir Inira Meet" src="https://img.shields.io/badge/Abrir%20Inira%20Meet-%F0%9F%9A%80%20Visitar-2563EB?style=for-the-badge&labelColor=111827&logo=google-chrome&logoColor=white" /> </a> </p>
-
-<p align="center"> <a href="https://inira-meet.web.app" target="_blank"> <img alt="Abrir Inira Meet" src="https://img.shields.io/badge/Abrir%20Inira%20Meet-%F0%9F%9A%80%20Visitar-2563EB?style=for-the-badge&labelColor=111827&logo=google-chrome&logoColor=white" /> </a> </p>
-
+(https://raw.githubusercontent.com/raulmoto/Helado_front/main/inirameet.png) <p align="center"> <a href="https://inira-meet.web.app" target="_blank"> <img alt="Abrir Inira Meet" src="https://img.shields.io/badge/Abrir%20Inira%20Meet-%F0%9F%9A%80%20Visitar-2563EB?style=for-the-badge&labelColor=111827&logo=google-chrome&logoColor=white" /> </a> </p>
 ---
 
 ## 📌 Objetivo
