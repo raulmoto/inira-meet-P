@@ -66,14 +66,21 @@ Actúa como un **punto de encuentro híbrido** entre una agenda universitaria y 
 
 ---
 
-## 👩‍💼 Stakeholders y Colaboradores
+## 👩‍💼 Stakeholders y Colaboradoras
 
-El desarrollo de Inira Meet ha contado con la colaboración de estudiantes de la carrera de **Marketing**, que han aportado una visión creativa y estratégica en la comunicación visual del proyecto:
+El desarrollo de **Inira Meet** ha contado con la colaboración de dos estudiantes de la carrera de **Marketing**, que aportaron ideas creativas, datos gráficos e informes visuales para reforzar la identidad del proyecto y su comunicación visual.
 
-informes visuales y asesoría en posicionamiento de marca  
-diseño de identidad y piezas gráficas
-- 🎨 **Lucía**  
-- 📊 **Paula** 
+---
+
+### 🤝 **Colaboración en Marketing y Comunicación Visual**
+
+- 🎨 **Lucía María De la Rubia Trillo**  
+- 📊 **Paula Sáez Marivela**  
+
+**Rol compartido:** diseño de identidad, elaboración de material gráfico e informes de apoyo visual.  
+**Correos:**  
+📧 [lucia.delarubiatrillo@ejemplo.com](mailto:lucia.delarubiatrillo@ejemplo.com)  
+📧 [paula.saezmarivela@ejemplo.com](mailto:paula.saezmarivela@ejemplo.com)
 
 ---
 
