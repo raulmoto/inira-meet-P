@@ -42,9 +42,21 @@ Lo que se muestra en el enlace es una **demo funcional** de la versión en const
 
 ---
 
-## 🖼️ Vista previa de la demo
+## 🖼️ Vista previa
 
-(https://raw.githubusercontent.com/raulmoto/Helado_front/main/inirameet.png) <p align="center"> <a href="https://inira-meet.web.app" target="_blank"> <img alt="Abrir Inira Meet" src="https://img.shields.io/badge/Abrir%20Inira%20Meet-%F0%9F%9A%80%20Visitar-2563EB?style=for-the-badge&labelColor=111827&logo=google-chrome&logoColor=white" /> </a> </p>
+> Diseño minimalista, pensado para que los estudiantes **encuentren rápido a otros compañeros** y organicen un plan sin complicaciones.
+
+![preview](https://raw.githubusercontent.com/raulmoto/Helado_front/main/inirameet.png)
+
+<p align="center">
+  <a href="https://inira-meet.web.app" target="_blank">
+    <img
+      alt="Abrir Inira Meet"
+      src="https://img.shields.io/badge/Abrir%20Inira%20Meet-%F0%9F%9A%80%20Visitar-2563EB?style=for-the-badge&labelColor=111827&logo=google-chrome&logoColor=white"
+    />
+  </a>
+</p>
+
 ---
 
 ## 📌 Objetivo
@@ -65,4 +77,4 @@ El desarrollo de Inira Meet ha contado con la colaboración de estudiantes de la
 
 ## 🌐 Enlace oficial
 
-👉 Visita la demo en desarrollo: **[inira-meet.web.app](https://inira-meet.web.app)**  
+👉 Visita la demo en desarrollo: **[inira-meet.web.app](https://inira-meet.web.app)**
