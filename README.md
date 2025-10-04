@@ -70,8 +70,10 @@ Actúa como un **punto de encuentro híbrido** entre una agenda universitaria y 
 
 El desarrollo de Inira Meet ha contado con la colaboración de estudiantes de la carrera de **Marketing**, que han aportado una visión creativa y estratégica en la comunicación visual del proyecto:
 
-- 🎨 **Lucía** — diseño de identidad y piezas gráficas  
-- 📊 **Paula** — informes visuales y asesoría en posicionamiento de marca  
+informes visuales y asesoría en posicionamiento de marca  
+diseño de identidad y piezas gráficas
+- 🎨 **Lucía**  
+- 📊 **Paula** 
 
 ---
 
