@@ -78,7 +78,7 @@ El desarrollo de **Inira Meet** ha contado con la colaboración de dos estudiant
 
 **Rol compartido:** diseño de identidad, elaboración de material gráfico e informes de apoyo visual.  
 **Correos:**  
-📧 [lucia.delarubiatrillo@ejemplo.com](mailto:lucia.delarubiatrillo@ejemplo.com)  
+📧 [luciadelarubia.1@gmail.com](mailto:luciadelarubia.1@gmail.com)  
 📧 [paula.saezmarivela@ejemplo.com](mailto:paula.saezmarivela@ejemplo.com)
 
 ---
